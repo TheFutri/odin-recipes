@@ -1,0 +1,18 @@
+.title {
+    color: aqua;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: bold, center;
+}
+
+.links {
+    color: blueviolet;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.textp {
+    font-size: 11px;
+    color: blue;
+    text-align: center;
+}
